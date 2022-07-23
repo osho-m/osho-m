@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=osho-m&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=osho-m&show_icons=true&theme=swift"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=osho-m&layout=compact&theme=swift"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=osho-m&theme=swift"/>
+
