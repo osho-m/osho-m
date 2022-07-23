@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ### 📈 GitHub stats
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand&theme=dracula"/></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com
