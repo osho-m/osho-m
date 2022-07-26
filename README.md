@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=osho-m&repo=Data-Analysis-Projects&theme=buefy"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=osho-m&repo=R-Projects&theme=buefy"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=osho-m&show_icons=true&theme=buefy"/>
 
