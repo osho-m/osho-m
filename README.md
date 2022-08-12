@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=osho-m&repo=Python-Projects&theme=buefy"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=osho-m&repo=Python-Projects&theme=radical"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=osho-m&show_icons=true&theme=buefy"/>
+<img src="https://github-readme-stats.vercel.app/api?username=osho-m&show_icons=true&theme=radical"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=osho-m&layout=compact&theme=buefy"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=osho-m&layout=compact&theme=radical"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=osho-m&theme=buefy"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=osho-m&theme=radical"/>
 
 
 
