@@ -16,11 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=osho-m&repo=Random&theme=dracula"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=osho-m&show_icons=true&theme=dracula"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=osho-m&layout=compact&theme=dracula"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=osho-m&theme=dracula"/>
 
