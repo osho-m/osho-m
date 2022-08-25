@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=osho-m&repo=random&theme=dracula"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=osho-m&repo=Case-Study&theme=dracula"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=osho-m&theme=dracula"/>
 
