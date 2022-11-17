@@ -1,7 +1,4 @@
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=osho-m&label=Profile%20views&color=0e75b6&style=flat" alt="osho-m" /> </p>
-
 ### Hi there 👋
 
 <!--
