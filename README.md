@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=osho-m&layout=compact&theme=dracula"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=osho-m&theme=dracula"/>
 
 
 
