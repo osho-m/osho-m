@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=osho-m&theme=dracula"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=osho-m&layout=compact&theme=dracula"/>
+
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/osho-m/)
+
 
 
 
