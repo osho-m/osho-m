@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Visits Badge](https://visitor-badge.glitch.me/badge?page_id=osho-m.osho-m)](https://github.com/osho-m)
-
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=osho-m&theme=dracula"/>
