@@ -5,7 +5,7 @@ Full-Stack Engineer focused on building reliable web applications and practical 
 -  Software Engineer at Tech Mahindra
 -  Working with Python, Java, Angular, Spring Boot, FastAPI, RAG, LangChain and LangGraph
 -  Microsoft Certified: Azure AI Engineer Associate | AWS Certified Cloud Practitioner
--  Exploring agentic AI, retrieval systems, data engineering and applied machine learning
+-  Agentic AI, retrieval systems, data engineering and applied machine learning
 -  Chennai, India
 
 ## Featured projects
