@@ -1,20 +1,29 @@
+# Hi, I'm Osho Muralidaran 
 
-### Hi there 👋
+Full-Stack Engineer focused on building reliable web applications and practical AI products.
 
-<!--
-**osho-m/osho-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  Software Engineer at Tech Mahindra
+-  Working with Python, Java, Angular, Spring Boot, FastAPI, RAG, LangChain and LangGraph
+-  Microsoft Certified: Azure AI Engineer Associate | AWS Certified Cloud Practitioner
+-  Exploring agentic AI, retrieval systems, data engineering and applied machine learning
+-  Chennai, India
 
-Here are some ideas to get you started:
+## Featured projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What it demonstrates |
+| --- | --- |
+| [FinSight AI](https://github.com/osho-m/finsight-ai) | Multi-agent financial intelligence and explainable signals |
+| [Pitwall Analytics](https://github.com/osho-m/pitwall-analytics) | F1 analytics, prediction, clustering and RAG |
+| [KMUT Scheme Analytics](https://github.com/osho-m/kmut-scheme-analytics) | EDA, ML, anomaly detection, RAG and BI |
+
+## Tech
+
+`Python` `Java` `JavaScript` `Angular` `Spring Boot` `FastAPI` `SQL` `Docker` `LangChain` `LangGraph` `RAG` `scikit-learn`
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/osho-m/
+- Kaggle: https://www.kaggle.com/oshomuralidaran
 
 
 
