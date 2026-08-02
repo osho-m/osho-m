@@ -15,6 +15,7 @@ AI Engineer focused on building practical GenAI/RAG products and reliable full-s
 | [FinSight AI](https://github.com/osho-m/finsight-ai) | Multi-agent financial intelligence and explainable signals |
 | [Pitwall Analytics](https://github.com/osho-m/pitwall-analytics) | F1 analytics, prediction, clustering and RAG |
 | [KMUT Scheme Analytics](https://github.com/osho-m/kmut-scheme-analytics) | EDA, ML, anomaly detection, RAG and BI |
+| [Crude Intelligence](https://github.com/osho-m/Crude-Intelligence) | Oil-crisis forecasting with LSTM, Monte Carlo simulation, and live Claude RAG dashboard |
 
 ## Tech
 
