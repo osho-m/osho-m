@@ -19,7 +19,7 @@ AI Engineer focused on building practical GenAI/RAG products and reliable full-s
 
 ## Tech
 
-`Python` `Java` `JavaScript` `Angular` `Spring Boot` `FastAPI` `SQL` `Docker` `LangChain` `LangGraph` `RAG` `scikit-learn`
+`Python` `Java` `JavaScript` `Angular` `Spring Boot` `FastAPI` `SQL` `Docker` `LangChain` `LangGraph` `RAG` `scikit-learn` 'PyTorch' 'TensorFlow' 'AWS' 'Azure' 'Anthropic Claude'
 
 ## Connect
 
