@@ -1,8 +1,8 @@
 # Hi, I'm Osho Muralidaran 
 
-Full-Stack Engineer focused on building reliable web applications and practical AI products.
+AI Engineer focused on building practical GenAI/RAG products and reliable full-stack applications.
 
--  Software Engineer at Tech Mahindra
+-  AI Engineer at Tech Mahindra
 -  Working with Python, Java, Angular, Spring Boot, FastAPI, RAG, LangChain and LangGraph
 -  Microsoft Certified: Azure AI Engineer Associate | AWS Certified Cloud Practitioner
 -  Agentic AI, retrieval systems, data engineering and applied machine learning
